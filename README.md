@@ -37,23 +37,6 @@ pilvipalveluissa, data-analytiikassa ja tekoälyyn liittyvissä aiheissa.
 
 ---
 
-## GitHub-tilastot
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ipappa74&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub stats"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipappa74&layout=compact&theme=transparent&hide_border=true"
-    alt="Top languages"
-    height="160"
-  />
-</p>
-
----
-
 ## Yhteydet
 
 - GitHub: https://github.com/ipappa74
