@@ -28,7 +28,7 @@
 - yli **30 vuoden kokemus** IT-alalta, web-suunnittelusta ja ohjaustehtävistä
 - kiinnostus **selkeisiin, moderneihin ja käytännöllisiin digiratkaisuihin**
 - osaamista **web-kehityksestä, käyttöliittymistä, IT-tuesta ja Microsoft-ekosysteemistä**
-- jatkuvaa oppimista **Power Platformin, Azuren, kyberturvallisuuden, datan ja AI:n** parissa
+- jatkuvaa oppimista **Power Platformin, Azuren, datan ja AI:n** parissa
 
 ---
 
@@ -60,32 +60,6 @@
 - [streamlayer](https://github.com/ipappa74/streamlayer)
 - [kick-multistream](https://github.com/ipappa74/kick-multistream)
 - [bookmark-manager](https://github.com/ipappa74/bookmark-manager)
-
----
-
-## 📊 GitHub-tilastot
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ipappa74&show_icons=true&theme=transparent&hide_border=true&locale=fi"
-    alt="GitHub stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipappa74&layout=compact&theme=transparent&hide_border=true&locale=fi"
-    alt="Top languages"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ipappa74&theme=transparent&hide_border=true&locale=fi"
-    alt="GitHub streak"
-  />
-</p>
-
-Dynaamiset stats-kortit ovat yleinen tapa näyttää GitHub-profiilin tietoja README:ssä, ja profiili-README tukee kuvia sekä GitHub Flavored Markdownia. [docs.github.com](https://docs.github.com/articles/about-your-profile?utm_source=openai)
 
 ---
 
