@@ -1,4 +1,4 @@
-<h1 align="center">Toni Sevander</h1>
+<h1 align="center">Toni</h1>
 
 <p align="center">
   Web-kehitystä, käyttöliittymiä, IT-osaamista sekä jatkuvaa oppimista
