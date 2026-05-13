@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/ipappa74/tonis-portfolio/main/assets/favicon/favicon.svg" alt="TS logo" width="84" height="84" />
 </p>
 
-<h1 align="center">Toni</h1>
-
 <p align="center">
   Selkeitä digitaalisia ratkaisuja, käyttöliittymiä ja käytännöllistä web-kehitystä.
 </p>
