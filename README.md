@@ -1,8 +1,8 @@
-<h1 align="center">Moi, olen Toni Sevander 👋</h1>
+<h1 align="center">Moi, olen Toni 👋</h1>
 
 <p align="center">
   Web-kehitystä, käyttöliittymiä, IT-osaamista sekä jatkuvaa oppimista
-  pilvipalvelu-, kyberturvallisuus- ja AI-teemoissa.
+  pilvipalvelu- ja AI-teemoissa.
 </p>
 
 <p align="center">
