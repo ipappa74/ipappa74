@@ -43,7 +43,7 @@ pilvipalveluissa ja tekoälyyn liittyvissä aiheissa.
 - selainpohjaiset työkalut ja käyttöliittymät
 - frontend-projektit HTML:llä, CSS:llä ja JavaScriptilla
 - käytännölliset ja selkeät digitaaliset ratkaisut
-- jatkuva oppiminen Microsoft-, cloud- ja AI-teemoissa
+- AI
 
 ---
 
