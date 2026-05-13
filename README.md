@@ -2,7 +2,7 @@
 
 <p align="center">
   Web-kehitystä, käyttöliittymiä, IT-osaamista sekä jatkuvaa oppimista
-  pilvipalvelu-, kyberturvallisuus- ja AI-teemoissa.
+  pilvipalvelu- ja AI-teemoissa.
 </p>
 
 ---
@@ -15,7 +15,7 @@ teknisestä työstä, web-suunnittelusta ja ohjaustehtävistä.
 Taustani yhdistää verkkosivustot, käyttöliittymät, teknisen toteutuksen,
 IT-tuen, asiakasyhteistyön ja jatkuvan osaamisen kehittämisen. Viime vuosina
 olen syventänyt osaamistani erityisesti web-kehityksessä, Microsoft Power Platformissa,
-pilvipalveluissa, kyberturvallisuudessa, data-analytiikassa ja tekoälyyn liittyvissä aiheissa.
+pilvipalveluissa, data-analytiikassa ja tekoälyyn liittyvissä aiheissa.
 
 ---
 
