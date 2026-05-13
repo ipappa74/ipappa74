@@ -5,8 +5,7 @@
 <h1 align="center">Toni</h1>
 
 <p align="center">
-  Web-kehitystä, käyttöliittymiä, IT-osaamista sekä jatkuvaa oppimista
-  pilvipalvelu-, data- ja AI-teemoissa.
+  Selkeitä digitaalisia ratkaisuja, käyttöliittymiä ja käytännöllistä web-kehitystä.
 </p>
 
 <p align="center">
@@ -27,29 +26,14 @@
 
 ---
 
-## Profiili
-
 Olen monipuolinen IT- ja web-alan osaaja, jolla on yli 30 vuoden kokemus
 teknisestä työstä, web-suunnittelusta ja ohjaustehtävistä.
 
-Taustani yhdistää verkkosivustot, käyttöliittymät, teknisen toteutuksen,
-IT-tuen, asiakasyhteistyön ja jatkuvan osaamisen kehittämisen. Viime vuosina
-olen syventänyt osaamistani erityisesti web-kehityksessä, Microsoft Power Platformissa,
-pilvipalveluissa, data-analytiikassa ja tekoälyyn liittyvissä aiheissa.
+Viime vuosina olen syventänyt osaamistani erityisesti web-kehityksessä,
+Microsoft Power Platformissa, pilvipalveluissa, data-analytiikassa ja
+tekoälyyn liittyvissä aiheissa.
 
----
-
-## Painopiste juuri nyt
-
-- selainpohjaiset työkalut ja käyttöliittymät
-- frontend-projektit HTML:llä, CSS:llä ja JavaScriptilla
-- käytännölliset ja selkeät digitaaliset ratkaisut
-- jatkuva oppiminen Microsoft-, cloud-, data- ja AI-teemoissa
-
----
-
-## Projektit
-
+### Projektit
 - [tonis-portfolio](https://github.com/ipappa74/tonis-portfolio)
 - [streamlayer](https://github.com/ipappa74/streamlayer)
 - [kick-multistream](https://github.com/ipappa74/kick-multistream)
