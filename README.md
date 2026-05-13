@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Platform-Power_Platform-742774?logo=powerbi&logoColor=white" alt="Power Platform" />
-  <img src="https://img.shields.io/badge/Deploy-GitHub_Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/Learning-AI-4F8CFF?logo=openai&logoColor=white" alt="AI" />
-  <img src="https://komarev.com/ghpvc/?username=ipappa74&color=4F8CFF&label=profile_views" alt="Profiilin katselut" />
+  <img src="https://img.shields.io/badge/Power_Platform-742774?logo=powerbi&logoColor=white" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/AI-4F8CFF?logo=openai&logoColor=white" alt="AI" />
+  <img src="https://komarev.com/ghpvc/?username=ipappa74&color=4F8CFF&label=views" alt="Profiilin katselut" />
 </p>
 
 ---
