@@ -1,8 +1,28 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ipappa74/tonis-portfolio/main/assets/favicon/favicon.svg" alt="TS logo" width="84" height="84" />
+</p>
+
 <h1 align="center">Toni</h1>
 
 <p align="center">
   Web-kehitystä, käyttöliittymiä, IT-osaamista sekä jatkuvaa oppimista
-  pilvipalvelu- ja AI-teemoissa.
+  pilvipalvelu-, data- ja AI-teemoissa.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ipappa74"><strong>GitHub</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/toni-sevander/"><strong>LinkedIn</strong></a>
+  ·
+  <a href="https://ipappa74.github.io/tonis-portfolio/"><strong>Portfolio</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerbi&logoColor=white" alt="Power Platform" />
 </p>
 
 ---
@@ -24,7 +44,7 @@ pilvipalveluissa, data-analytiikassa ja tekoälyyn liittyvissä aiheissa.
 - selainpohjaiset työkalut ja käyttöliittymät
 - frontend-projektit HTML:llä, CSS:llä ja JavaScriptilla
 - käytännölliset ja selkeät digitaaliset ratkaisut
-- jatkuva oppiminen Microsoft-, cloud- ja AI-teemoissa
+- jatkuva oppiminen Microsoft-, cloud-, data- ja AI-teemoissa
 
 ---
 
@@ -34,11 +54,3 @@ pilvipalveluissa, data-analytiikassa ja tekoälyyn liittyvissä aiheissa.
 - [streamlayer](https://github.com/ipappa74/streamlayer)
 - [kick-multistream](https://github.com/ipappa74/kick-multistream)
 - [bookmark-manager](https://github.com/ipappa74/bookmark-manager)
-
----
-
-## Yhteydet
-
-- GitHub: https://github.com/ipappa74
-- LinkedIn: https://www.linkedin.com/in/toni-sevander/
-- Portfolio: https://ipappa74.github.io/tonis-portfolio/
